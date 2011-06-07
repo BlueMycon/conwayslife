@@ -1,3 +1,9 @@
+I wanted to find a little project to use as an interview prep for my friend Dan and found JustinLove's game of life.  I separated the tests into a separate file so these could be used as a mock interview in which the tests are a given and the final implementation is what is arrived at.
+
+As with JustinLove's implementation, this program has no UI, it just manipulates the data structures.
+
+ORIGINAL VERSION OF THE README:
+
 This project was part of a random pair programming exercise at the 2009-11-03 ChicagoRuby meeting.  The exercise was Conway's game of life.  This version was completed by Justin Love and Dave Giunta in about two hours.
 
 What is particularly interesting about this implementation is that it actually operates on an infinite grid.  In certain places (especially live checking) the performance will suffer considerably for this, although that that might be addressed with some refactoring.
