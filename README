@@ -1,3 +1,4 @@
+Test
 I wanted to find a little project to use as an interview prep for my friend Dan and found JustinLove's game of life.  I separated the tests into a separate file so these could be used as a mock interview in which the tests are a given and the final implementation is what is arrived at.
 
 As with JustinLove's implementation, this program has no UI, it just manipulates the data structures.
